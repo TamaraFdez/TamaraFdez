@@ -7,7 +7,7 @@ Desarrolladora Front-End y Artista Dígital
 *   🌍  Vivo en Palma de Mallorca, España
 *   🖥️  Visita [Mi Portafolio](https://tamarafdez-portfolio.netlify.app/)
 *   ✉️  Puedes contartarme por [TamaraFdezosmi23@gmail.com](mailto:TamaraFdezosmi23@gmail.com)
-*   🧠  Estoy en una ruta de aprendizaje con Astro.
+*   🧠  Estoy en una ruta de aprendizaje Sacandome el FP DAW en el Francesc de Borja Moll.
 
   ¡Hola a todos! Soy Tamara Fernández Viturro, una apasionada Web Developer con un toque artístico y una fascinación por el diseño. Me encanta sumergirme en el mundo de la tecnología mientras exploro nuevas formas de fusionar la creatividad con la funcionalidad.
 
